@@ -52,11 +52,9 @@ Building intelligent systems that work in the real world. Currently deep into mu
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Activity
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=josemrquintas&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3B82F6&icon_color=3B82F6)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=josemrquintas&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3B82F6&hide=html,css)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=josemrquintas&theme=tokyonight&hide_border=true&background=0D1117)
 
 ---
 
