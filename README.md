@@ -46,7 +46,7 @@ Building intelligent systems that work in the real world. Currently deep into mu
 
 **✈️ BoardingPass** — Digital boarding pass platform for vacation rentals. Next.js with Salesforce and PMS integrations. Smart access control and experience bookings.
 
-**🐟 Marine Matcher** — Master's thesis. Computer vision system for marine species identification using deep learning.
+**🚢 Marine Matcher** — Master's thesis. Multi-objective genetic algorithms (NSGA-II) for marine tourism scheduling optimization.
 
 **📈 Trading System** — Algorithmic trading with financial data analysis and automated strategies.
 
