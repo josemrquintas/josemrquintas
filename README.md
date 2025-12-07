@@ -1,6 +1,6 @@
 # Hey, I'm José 👋
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=3B82F6&center=true&vCenter=true&random=false&width=500&lines=AI+Systems+Builder;Full-Stack+Developer;Multi-Agent+Architect)
+**AI Systems Builder · Full-Stack Developer · Multi-Agent Architect**
 
 **Based in Algarve, Portugal 🇵🇹**
 
